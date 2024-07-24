@@ -7,6 +7,6 @@ import org.springframework.boot.runApplication
 class DemoWowApplication
 
 fun main(args: Array<String>) {
-    println("PR")
+    println("깃모지 테스트")
     runApplication<DemoWowApplication>(*args)
 }
